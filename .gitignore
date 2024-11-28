@@ -1,0 +1,11 @@
+/Library
+/Logs
+/obj
+/Temp
+/UserSettings
+/*.csproj
+/*.sln
+/Assets/Samples
+/Assets/ShaderGraph
+/Assets/Samples.meta
+/Assets/ShaderGraph.meta
